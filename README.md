@@ -12,3 +12,4 @@ Database and Tools
 *PgAdmin4
 
 Schema- Music Store Database
+![image alt](https://github.com/SarthakSingh2002/-Music-Store-Analysis/blob/4cef49a6f7c470723343cd01add29763e099439a/Schema.jpg)
